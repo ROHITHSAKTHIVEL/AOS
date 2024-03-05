@@ -1,0 +1,9 @@
+{
+    "port":":8087",
+    "mongourl": "mongodb://localhost:27017",
+    "uiDirectory":"/home/rohith/Music/netxd/static",
+    "db":"Login",
+    "colleection":"users",
+    "Addflock":"Flock"
+    
+}
